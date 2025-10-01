@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 5e38ea33e94ca30654725f29df21cf34d0c10c57 ASLIMICHJOSE <aslimich22@example.com> 1759330354 +0530	branch: Created from HEAD
+5e38ea33e94ca30654725f29df21cf34d0c10c57 beee565fc30cb4c3a7d3d461afa1522c2f2f9daa ASLIMICHJOSE <aslimich22@example.com> 1759330660 +0530	commit: Remove secret key
+beee565fc30cb4c3a7d3d461afa1522c2f2f9daa beee565fc30cb4c3a7d3d461afa1522c2f2f9daa ASLIMICHJOSE <aslimich22@example.com> 1759331141 +0530	Branch: renamed refs/heads/new-branch to refs/heads/main
+beee565fc30cb4c3a7d3d461afa1522c2f2f9daa beee565fc30cb4c3a7d3d461afa1522c2f2f9daa ASLIMICHJOSE <aslimich22@example.com> 1759331709 +0530	Branch: renamed refs/heads/main to refs/heads/main
